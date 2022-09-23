@@ -18,7 +18,7 @@
 `grep -v '^#' 1.gtf | cut -f 3| sort | uniq -c|sort -k 1`
 
 结果：  
-![](./picutre/linux_homework_2_pic2.png)
+![](./picutre/linux_homework_1_pic2.png)
 
 &nbsp;
 
