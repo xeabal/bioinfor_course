@@ -9,7 +9,7 @@
 `cat 1.gtf | awk '$1=="XI"&&$3 == "CDS"' | sort -n -k 5| tail -10`
 
 结果：  
-![](/picutre/linux_homework_pic1.png)
+![](./picutre/linux_homework_1_pic1.png)
 
 &nbsp;
 
