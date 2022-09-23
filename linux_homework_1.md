@@ -9,7 +9,7 @@
 `cat 1.gtf | awk '$1=="XI"&&$3 == "CDS"' | sort -n -k 5| tail -10`
 
 结果：  
-![图片1](/./picutre/linux_homework_pic1.png)
+![](./picutre/linux_homework_pic1.png)
 
 &nbsp;
 
@@ -18,7 +18,7 @@
 `grep -v '^#' 1.gtf | cut -f 3| sort | uniq -c|sort -k 1`
 
 结果：  
-![图片2](/./picutre/linux_homework_pic2.png)
+![](./picutre/linux_homework_pic2.png)
 
 &nbsp;
 
